@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="controlsfx-8.40.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/controlsfx-8.40.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/AutoFillTextBox28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org-apache-commons-lang.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
